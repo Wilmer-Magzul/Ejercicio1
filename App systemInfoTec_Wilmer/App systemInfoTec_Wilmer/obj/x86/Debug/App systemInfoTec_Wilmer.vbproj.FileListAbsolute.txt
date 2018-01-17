@@ -1,0 +1,8 @@
+C:\xampp\htdocs\ejercicio1\App systemInfoTec_Wilmer\App systemInfoTec_Wilmer\bin\Debug\App systemInfoTec_Wilmer.exe
+C:\xampp\htdocs\ejercicio1\App systemInfoTec_Wilmer\App systemInfoTec_Wilmer\bin\Debug\App systemInfoTec_Wilmer.pdb
+C:\xampp\htdocs\ejercicio1\App systemInfoTec_Wilmer\App systemInfoTec_Wilmer\bin\Debug\App systemInfoTec_Wilmer.xml
+C:\xampp\htdocs\ejercicio1\App systemInfoTec_Wilmer\App systemInfoTec_Wilmer\obj\x86\Debug\App_systemInfoTec_Wilmer.Resources.resources
+C:\xampp\htdocs\ejercicio1\App systemInfoTec_Wilmer\App systemInfoTec_Wilmer\obj\x86\Debug\App systemInfoTec_Wilmer.vbproj.GenerateResource.Cache
+C:\xampp\htdocs\ejercicio1\App systemInfoTec_Wilmer\App systemInfoTec_Wilmer\obj\x86\Debug\App systemInfoTec_Wilmer.exe
+C:\xampp\htdocs\ejercicio1\App systemInfoTec_Wilmer\App systemInfoTec_Wilmer\obj\x86\Debug\App systemInfoTec_Wilmer.xml
+C:\xampp\htdocs\ejercicio1\App systemInfoTec_Wilmer\App systemInfoTec_Wilmer\obj\x86\Debug\App systemInfoTec_Wilmer.pdb
