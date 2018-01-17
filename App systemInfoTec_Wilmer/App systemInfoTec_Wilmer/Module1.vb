@@ -2,7 +2,7 @@
 
     Sub Main()
         Console.WriteLine("prueba de github")
-        Console.ReadKey()
+        Console.ReadKey("linea editada")
     End Sub
 
 End Module
